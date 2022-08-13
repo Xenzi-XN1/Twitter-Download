@@ -15,7 +15,7 @@ python TW.py
 ```
 
 # Apa saja fungsinya
-+ Download Video Twjtt6
++ Download Video Twitter
 + Kualitas Video 320x568, 480x852, 720x1280
 
 # Hasil Dari Tools Twitter-Download
