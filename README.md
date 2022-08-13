@@ -19,7 +19,7 @@ python TW.py
 + Kualitas Video 320x568, 480x852, 720x1280
 
 # Hasil Dari Tools Twitter-Download
-![img]()
+![img](https://github.com/Xenzi-XN1/Twitter-Download/blob/main/IMG_20220813_150010.jpg)
 
 # Thanks to
 ```
